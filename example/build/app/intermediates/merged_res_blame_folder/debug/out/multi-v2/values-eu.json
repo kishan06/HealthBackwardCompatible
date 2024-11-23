@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "cachet.plugins.example_app-mergeDebugResources-28:/values-eu/values-eu.xml",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/f2a5b9c4f8ba6b29cd136be8b3da8525/transformed/core-1.12.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,356,459,564,667,786",
+                        "endColumns": "97,102,99,102,104,102,118,100",
+                        "endOffsets": "148,251,351,454,559,662,781,882"
+                    }
+                }
+            ]
+        }
+    ]
+}

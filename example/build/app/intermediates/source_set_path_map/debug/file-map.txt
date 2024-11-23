@@ -1,0 +1,34 @@
+cachet.plugins.example_app-lifecycle-runtime-2.6.1-0 /Users/macbookpro/.gradle/caches/transforms-3/0ad390e592f66d40ecab5062e44e01ea/transformed/lifecycle-runtime-2.6.1/res
+cachet.plugins.example_app-core-runtime-2.2.0-1 /Users/macbookpro/.gradle/caches/transforms-3/1a9063a9af3232e57647a792643c7ca3/transformed/core-runtime-2.2.0/res
+cachet.plugins.example_app-jetified-lifecycle-viewmodel-ktx-2.6.1-2 /Users/macbookpro/.gradle/caches/transforms-3/22fd72fb2caccea1bdb273c3ffb0d52e/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/res
+cachet.plugins.example_app-lifecycle-livedata-core-2.6.1-3 /Users/macbookpro/.gradle/caches/transforms-3/2c2d81de14d3f6abd9ff30b3d35779e4/transformed/lifecycle-livedata-core-2.6.1/res
+cachet.plugins.example_app-jetified-connect-client-1.1.0-alpha07-4 /Users/macbookpro/.gradle/caches/transforms-3/3251a62b0b9afe090729386ac6ae90c3/transformed/jetified-connect-client-1.1.0-alpha07/res
+cachet.plugins.example_app-jetified-activity-ktx-1.7.2-5 /Users/macbookpro/.gradle/caches/transforms-3/3548b182a7462e7f08621e3bde160179/transformed/jetified-activity-ktx-1.7.2/res
+cachet.plugins.example_app-jetified-core-ktx-1.12.0-6 /Users/macbookpro/.gradle/caches/transforms-3/376d61738cfc2c42ee45ba2af7a2b5cf/transformed/jetified-core-ktx-1.12.0/res
+cachet.plugins.example_app-jetified-savedstate-ktx-1.2.1-7 /Users/macbookpro/.gradle/caches/transforms-3/4350833e58a7cb7ce3c292c38be51969/transformed/jetified-savedstate-ktx-1.2.1/res
+cachet.plugins.example_app-jetified-profileinstaller-1.3.0-8 /Users/macbookpro/.gradle/caches/transforms-3/46477c6165e19d0ba031ed751714869e/transformed/jetified-profileinstaller-1.3.0/res
+cachet.plugins.example_app-jetified-lifecycle-viewmodel-savedstate-2.6.1-9 /Users/macbookpro/.gradle/caches/transforms-3/49908bf5fa162b95e2f4cea6c850a247/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+cachet.plugins.example_app-jetified-fragment-ktx-1.6.2-10 /Users/macbookpro/.gradle/caches/transforms-3/4b8527135198d36f4606399f91028cfc/transformed/jetified-fragment-ktx-1.6.2/res
+cachet.plugins.example_app-jetified-savedstate-1.2.1-11 /Users/macbookpro/.gradle/caches/transforms-3/6d6d099e6cded50701c7eccba7ec129c/transformed/jetified-savedstate-1.2.1/res
+cachet.plugins.example_app-lifecycle-livedata-2.6.1-12 /Users/macbookpro/.gradle/caches/transforms-3/6dae0ed3de3d9f55eb746d7672448063/transformed/lifecycle-livedata-2.6.1/res
+cachet.plugins.example_app-jetified-activity-1.7.2-13 /Users/macbookpro/.gradle/caches/transforms-3/6e188b72528dedc5f5a2b309745cb838/transformed/jetified-activity-1.7.2/res
+cachet.plugins.example_app-fragment-1.6.2-14 /Users/macbookpro/.gradle/caches/transforms-3/7e4a4489be0e05e50595beb1ee08ca74/transformed/fragment-1.6.2/res
+cachet.plugins.example_app-jetified-annotation-experimental-1.3.0-15 /Users/macbookpro/.gradle/caches/transforms-3/8e243bbfa6bd524eaf0372b0a32c3c27/transformed/jetified-annotation-experimental-1.3.0/res
+cachet.plugins.example_app-jetified-lifecycle-livedata-core-ktx-2.6.1-16 /Users/macbookpro/.gradle/caches/transforms-3/9d2af3b34d803caf25a02e62a80e3734/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1/res
+cachet.plugins.example_app-jetified-window-java-1.0.0-beta04-17 /Users/macbookpro/.gradle/caches/transforms-3/b25dd37efb1bf1e718159df232495e4e/transformed/jetified-window-java-1.0.0-beta04/res
+cachet.plugins.example_app-jetified-window-1.0.0-beta04-18 /Users/macbookpro/.gradle/caches/transforms-3/c318a740b6e493670057de3b9e779c1b/transformed/jetified-window-1.0.0-beta04/res
+cachet.plugins.example_app-jetified-lifecycle-runtime-ktx-2.6.1-19 /Users/macbookpro/.gradle/caches/transforms-3/ce85d726c5e51c4323dc6a7f258fcc02/transformed/jetified-lifecycle-runtime-ktx-2.6.1/res
+cachet.plugins.example_app-jetified-startup-runtime-1.1.1-20 /Users/macbookpro/.gradle/caches/transforms-3/e17ea09590e7025d6d751ee6a44c860c/transformed/jetified-startup-runtime-1.1.1/res
+cachet.plugins.example_app-lifecycle-viewmodel-2.6.1-21 /Users/macbookpro/.gradle/caches/transforms-3/ef7f809b587a02db3e93b2d522ce2e6b/transformed/lifecycle-viewmodel-2.6.1/res
+cachet.plugins.example_app-core-1.12.0-22 /Users/macbookpro/.gradle/caches/transforms-3/f2a5b9c4f8ba6b29cd136be8b3da8525/transformed/core-1.12.0/res
+cachet.plugins.example_app-debug-23 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/android/app/src/debug/res
+cachet.plugins.example_app-main-24 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/android/app/src/main/res
+cachet.plugins.example_app-pngs-25 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/app/generated/res/pngs/debug
+cachet.plugins.example_app-resValues-26 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/app/generated/res/resValues/debug
+cachet.plugins.example_app-rs-27 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/app/generated/res/rs/debug
+cachet.plugins.example_app-mergeDebugResources-28 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+cachet.plugins.example_app-mergeDebugResources-29 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+cachet.plugins.example_app-merged_res-30 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/app/intermediates/merged_res/debug
+cachet.plugins.example_app-packaged_res-31 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/device_info_plus/intermediates/packaged_res/debug
+cachet.plugins.example_app-packaged_res-32 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/health/intermediates/packaged_res/debug
+cachet.plugins.example_app-packaged_res-33 /Users/macbookpro/Desktop/Flutter Projects /HealthConnectDemo/flutter-plugins/packages/health/example/build/permission_handler_android/intermediates/packaged_res/debug
