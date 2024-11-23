@@ -2,8 +2,8 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:health_backward_compatible/health.dart';
 
-import 'package:healthBackwardsCompatible/health.dart';
 
 import 'package:health_example/util.dart';
 import 'package:permission_handler/permission_handler.dart';

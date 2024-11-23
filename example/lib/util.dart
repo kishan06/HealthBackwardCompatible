@@ -1,5 +1,5 @@
 
-import 'package:healthBackwardsCompatible/health.dart';
+import 'package:health_backward_compatible/health.dart';
 
 /// List of data types available on iOS
 const List<HealthDataType> dataTypesIOS = [

@@ -13,7 +13,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   permission_handler: ^10.2.0
   carp_serializable: ^2.0.0 # polymorphic json serialization
-  healthBackwardsCompatible:
+  health_backward_compatible:
     path: ../
 
 dev_dependencies:

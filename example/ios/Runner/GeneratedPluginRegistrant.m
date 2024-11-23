@@ -12,10 +12,10 @@
 @import device_info_plus;
 #endif
 
-#if __has_include(<healthBackwardsCompatible/HealthPlugin.h>)
-#import <healthBackwardsCompatible/HealthPlugin.h>
+#if __has_include(<health_backward_compatible/HealthPlugin.h>)
+#import <health_backward_compatible/HealthPlugin.h>
 #else
-@import healthBackwardsCompatible;
+@import health_backward_compatible;
 #endif
 
 #if __has_include(<permission_handler_apple/PermissionHandlerPlugin.h>)
