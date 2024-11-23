@@ -1047,7 +1047,7 @@ class Health {
       int activitySegmentDuration,
       bool includeManualEntry) async {
     final args = <String, dynamic>{
-      'dataTypeKeys': dataTypes.map((dataType) => dataType.name).toList(),
+      'dataTypeKey': dataTypes.map((dataType) => dataType.name).toList(),
       'startTime': startDate.millisecondsSinceEpoch,
       'endTime': endDate.millisecondsSinceEpoch,
       'activitySegmentDuration': activitySegmentDuration,
