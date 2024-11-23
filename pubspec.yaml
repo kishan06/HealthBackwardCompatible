@@ -1,4 +1,4 @@
-name: health_health_backward_compatible
+name: health_backward_compatible
 description: Wrapper for Apple's HealthKit on iOS and Google's Health Connect on Android.
 version: 11.1.0
 homepage: https://github.com/cph-cachet/flutter-plugins/tree/master/packages/health
