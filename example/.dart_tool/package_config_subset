@@ -27,9 +27,9 @@ cupertino_icons
 file:///Users/macbookpro/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6/
 file:///Users/macbookpro/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6/lib/
 device_info_plus
-2.18
-file:///Users/macbookpro/.pub-cache/hosted/pub.dev/device_info_plus-9.0.0/
-file:///Users/macbookpro/.pub-cache/hosted/pub.dev/device_info_plus-9.0.0/lib/
+2.12
+file:///Users/macbookpro/.pub-cache/hosted/pub.dev/device_info_plus-8.2.2/
+file:///Users/macbookpro/.pub-cache/hosted/pub.dev/device_info_plus-8.2.2/lib/
 device_info_plus_platform_interface
 2.18
 file:///Users/macbookpro/.pub-cache/hosted/pub.dev/device_info_plus_platform_interface-7.0.1/
@@ -128,12 +128,8 @@ file:///Users/macbookpro/.pub-cache/hosted/pub.dev/vector_math-2.1.4/
 file:///Users/macbookpro/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/
 win32
 2.17
-file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32-4.1.4/
-file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32-4.1.4/lib/
-win32_registry
-2.17
-file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32_registry-1.1.0/
-file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32_registry-1.1.0/lib/
+file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32-2.7.0/
+file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32-2.7.0/lib/
 health_backward_compatible
 2.19
 file:///Users/macbookpro/Desktop/Flutter%20Projects%20/HealthConnectDemo/flutter-plugins/packages/health/

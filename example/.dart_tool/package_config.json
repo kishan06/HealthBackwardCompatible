@@ -45,9 +45,9 @@
     },
     {
       "name": "device_info_plus",
-      "rootUri": "file:///Users/macbookpro/.pub-cache/hosted/pub.dev/device_info_plus-9.0.0",
+      "rootUri": "file:///Users/macbookpro/.pub-cache/hosted/pub.dev/device_info_plus-8.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.12"
     },
     {
       "name": "device_info_plus_platform_interface",
@@ -225,13 +225,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32-4.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "win32_registry",
-      "rootUri": "file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32_registry-1.1.0",
+      "rootUri": "file:///Users/macbookpro/.pub-cache/hosted/pub.dev/win32-2.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -242,7 +236,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-11-23T08:37:52.635864Z",
+  "generated": "2024-11-23T08:44:21.684064Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
