@@ -189,10 +189,10 @@ packages:
     dependency: "direct main"
     description:
       name: device_info_plus
-      sha256: "77f757b789ff68e4eaf9c56d1752309bd9f7ad557cb105b938a7f8eb89e59110"
+      sha256: "9b1a0c32b2a503f8fe9f8764fac7b5fcd4f6bd35d8f49de5350bccf9e2a33b8a"
       url: "https://pub.dev"
     source: hosted
-    version: "9.1.2"
+    version: "9.0.0"
   device_info_plus_platform_interface:
     dependency: transitive
     description:
