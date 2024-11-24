@@ -1047,11 +1047,12 @@ class Health {
       int activitySegmentDuration,
       bool includeManualEntry) async {
     final args = <String, dynamic>{
-      'dataTypeKey': dataTypes.map((dataType) => dataType.name).toList(),
+      'dataTypeKey': dataTypes.isNotEmpty ? dataTypes.first.name : '',
       'startTime': startDate.millisecondsSinceEpoch,
       'endTime': endDate.millisecondsSinceEpoch,
       'activitySegmentDuration': activitySegmentDuration,
-      'includeManualEntry': includeManualEntry
+      'includeManualEntry': includeManualEntry,
+      'interval': 60, // Example value (in seconds); adjust based on your needs.
     };
 
     final fetchedDataPoints =
